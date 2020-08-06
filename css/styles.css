@@ -1,0 +1,148 @@
+/* tag selectors */
+a {
+  color: #11999e;
+}
+body {
+  font-family: "Merriweather", serif;
+  margin: 0;
+  text-align: center;
+  color: #40514e;
+}
+
+h1 {
+  color: #66bfbf;
+  font-family: "Sacramento", cursive;
+  font-size: 5.625rem;
+  margin: 10px auto;
+}
+
+h2 {
+  color: #66bfbf;
+  font-family: "Montserrat", sans-serif;
+  font-size: 2.5rem;
+  font-weight: bold;
+  padding-bottom: 10px;
+  margin: 20px;
+}
+h3 {
+  color: #11999e;
+  font-family: "Montserrat", sans-serif;
+  font-weight: bold;
+}
+
+hr {
+  border-style: none;
+  border-top: 5px dotted #eaf6f6;
+  margin: 100px auto;
+  width: 4%;
+}
+p {
+  font-weight: bold;
+  line-height: 2;
+}
+/*  class selectors*/
+
+.bottom-container {
+  background-color: #66bfbf;
+  margin-top: 30px;
+  padding: 50px 0 20px;
+}
+
+.btn {
+  display: inline-block;
+  margin: 50px auto;
+  background: #66bfbf;
+  border: 1px solid #11999e;
+  border-radius: 10px;
+  color: #ffffff;
+  font-family: "Montserrat", sans-serif;
+  font-size: 20px;
+  font-weight: 100;
+  padding: 10px;
+  text-decoration: none;
+  cursor: pointer;
+  text-align: center;
+}
+
+.btn:hover {
+  background-color: #11999e;
+  cursor: pointer;
+}
+
+.contact-me {
+  display: inline-block;
+  margin-bottom: 0px;
+  width: 50%;
+}
+
+.contact-me-small-title {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.code-image {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.copyright {
+  color: #eaf6f6;
+  font-size: 10px;
+  padding: 20px 0;
+}
+.design-image {
+  margin-top: 50px;
+  width: 25%;
+}
+.footer-link {
+  color: #11999e;
+  font-family: "Montserrat", sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+.footer-link:hover {
+  color: #eaf6f6;
+}
+.group-image {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.middle-container {
+  margin-top: 100px;
+}
+
+.profile {
+  display: inline-block;
+  width: 50%;
+}
+.profile p {
+  margin: 20px;
+}
+.pro {
+  text-decoration: underline;
+}
+
+.profile-image {
+  border-radius: 50%;
+  width: 25%;
+}
+
+.skills {
+  margin-top: 90px;
+}
+.skill-row {
+  display: inline-block;
+  margin: 20px auto 20px auto;
+  text-align: left;
+  width: 50%;
+}
+
+.top-container {
+  background-color: #eaf6f6;
+  padding-top: 50px;
+  position: relative;
+}
